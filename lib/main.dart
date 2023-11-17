@@ -12,7 +12,7 @@ void main() {
           ),
           backgroundColor: Colors.blueGrey[600],
         ),
-        body: Center(child: Image(image: NetworkImage('https://imgv3.fotor.com/images/gallery/a-colorful-girl-watching-the-floating-colorful-water-created-by-Fotor-ai.jpg')),)
+        body: Center(child: Image(image: AssetImage('images/dimond.jpg')),)
       ),
     ),
   );
